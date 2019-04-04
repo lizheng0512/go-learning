@@ -1,5 +1,5 @@
 .idea
 *.exe
 *.iml
-api_fusion_client.go
+api_client
 hello.go
